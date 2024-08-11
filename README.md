@@ -21,3 +21,8 @@ Evaluation is a file with prediction probability.
 * We're dealing with unstructured data(images)
 * We have to evaluate amongst 120 breeds of dogs(120 classes)
 
+## 5. Results
+
+* We were able to achieve a Multi Class Log Loss of 0.8964 using mobilenet_v2.
+* We were also able to predict breeds on custom images.
+
